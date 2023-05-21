@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-sqlite-select/static/css/main.073c9b0a.css",
+    "main.js": "/react-sqlite-select/static/js/main.0d331027.js",
+    "static/js/657.2193e4fc.chunk.js": "/react-sqlite-select/static/js/657.2193e4fc.chunk.js",
+    "static/js/787.bc7d429a.chunk.js": "/react-sqlite-select/static/js/787.bc7d429a.chunk.js",
+    "static/media/sqlite3.wasm": "/react-sqlite-select/static/media/sqlite3.fda6f55f3316e5f1013e.wasm",
+    "static/media/logo.svg": "/react-sqlite-select/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-sqlite-select/index.html",
+    "main.073c9b0a.css.map": "/react-sqlite-select/static/css/main.073c9b0a.css.map",
+    "main.0d331027.js.map": "/react-sqlite-select/static/js/main.0d331027.js.map",
+    "657.2193e4fc.chunk.js.map": "/react-sqlite-select/static/js/657.2193e4fc.chunk.js.map",
+    "787.bc7d429a.chunk.js.map": "/react-sqlite-select/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0d331027.js"
+  ]
+}
